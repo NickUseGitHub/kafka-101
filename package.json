@@ -1,0 +1,15 @@
+{
+  "name": "kafka",
+  "version": "1.0.0",
+  "description": "- Follow this youtube tutorial > Ref: [https://www.youtube.com/watch?v=Hl61x0s3yeQ&list=PLxoOrmZMsAWxXBF8h_TPqYJNsh3x4GyO4](https://www.youtube.com/watch?v=Hl61x0s3yeQ&list=PLxoOrmZMsAWxXBF8h_TPqYJNsh3x4GyO4)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kafka-node": "^5.0.0"
+  }
+}
